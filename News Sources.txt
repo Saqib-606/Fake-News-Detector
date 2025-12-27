@@ -1,6 +1,6 @@
-LIST 1: ✅ TRUSTED NEWS SOURCES
+TRUSTED NEWS SOURCES
 (Generally high credibility, editorial standards, fact-checking)
-🌍 International Trusted Sources
+International Trusted Sources
 
 BBC News
 Reuters
@@ -21,13 +21,7 @@ ARY News (reports only)
 Pakistan Today
 Business Recorder
 
-➡️ Use Case:
-Inko High Trust Score dena (70–95)
-
-
-
-📌 LIST 2: ⚠️ PARTIALLY TRUSTED / NEUTRAL SOURCES
-(Mixed content: kabhi sahi, kabhi sensational)
+PARTIALLY TRUSTED / NEUTRAL SOURCES
 
 Fox News (reports better than opinions)
 Daily Mail
@@ -37,17 +31,9 @@ Medium articles (depends on author)
 Personal YouTube news channels
 Facebook page based news sites
 
-➡️ Use Case:
-Medium trust score (40–70)
 
-
-
-
-📌 LIST 3: ❌ BLACKLIST / HIGHLY SUSPICIOUS SOURCES
+BLACKLIST / HIGHLY SUSPICIOUS SOURCES
 (Commonly flagged for misinformation / clickbait)
-
-Ye list learning logic ke liye hai
-
 BeforeItsNews
 InfoWars
 NaturalNews
@@ -56,6 +42,3 @@ The Onion (satire — important case)
 Clickbait WordPress blogs
 “news-update-now.xyz” type websites
 Random Telegram / WhatsApp forwarded “news sites”
-
-➡️ Use Case:
-Low trust score (0–30)

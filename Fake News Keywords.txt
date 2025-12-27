@@ -1,8 +1,6 @@
-📌 LIST 4: 🚩 FAKE NEWS KEYWORDS
-(3rd class – KeywordEngine ke liye)
+FAKE NEWS KEYWORDS
 
-🔥 Clickbait Keywords
-
+Clickbait Keywords
 shocking
 unbelievable
 you won’t believe
@@ -14,9 +12,7 @@ media won’t show
 banned video
 truth finally out
 
-
-🧠 Conspiracy Style Words
-
+Conspiracy Style Words
 hidden agenda
 deep state
 elite control
@@ -25,13 +21,9 @@ mind control
 fake pandemic
 hoax exposed
 
-⚠️ Urgency / Manipulation
-
+Urgency / Manipulation
 share before delete
 forward to everyone
 don’t trust media
 they are lying
 open your eyes
-
-➡️ Use Case:
-Zyada keywords = fake probability ↑
