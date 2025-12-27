@@ -1,0 +1,74 @@
+📌 LIST 5: 🚨 SENSATIONAL LANGUAGE INDICATORS
+
+(SensationDetector ke liye)
+
+🔊 Writing Style Signals
+ALL CAPS SENTENCES
+Multiple !!! or ???
+Excessive emojis 😱🔥💥
+Bold emotional statements
+
+😱 Emotional Manipulation Phrases
+
+this will change your life
+everyone is scared
+people are angry
+nation shocked
+breaking shocking news
+unbelievable incident
+
+❌ Bad Journalism Signals
+
+No source mentioned
+No date
+No author
+“Experts say” without naming experts
+Extreme claims without proof
+
+➡️ Use Case:
+Sensational style = credibility ↓
+
+
+
+
+Emotional Language Detection
+(Fear • Anger • Shock words)
+
+FEAR WORDS
+fear
+panic
+scared
+terrified
+terror
+danger
+threat
+emergency
+alarming
+frightening
+nightmare
+
+
+ANGER WORDS
+angry
+rage
+outrage
+furious
+hate
+betrayal
+corrupt
+criminal
+liars
+traitors
+disgusting
+
+
+SHOCK WORDS
+shocking
+unbelievable
+horrifying
+explosive
+bombshell
+disturbing
+unexpected
+jaw-dropping
+unthinkable
